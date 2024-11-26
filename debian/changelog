@@ -1,0 +1,6 @@
+screenfetch (3.9.2~real-is-fastfetch) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- shenmo <shenmo@spark-app.store>  Wed, 27 Nov 2024 03:16:14 +0800
